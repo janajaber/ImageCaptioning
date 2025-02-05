@@ -78,4 +78,4 @@ This implementation is based on the "Show, Attend, and Tell" model by Xu et al. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to customize this README to better fit the specifics of your project. 
+
